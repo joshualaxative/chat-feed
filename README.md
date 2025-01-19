@@ -1,3 +1,3 @@
 # chat-feed
 a APP like TikTok because TikTok got banned,
-code coming soon!
+code and app coming soon!
